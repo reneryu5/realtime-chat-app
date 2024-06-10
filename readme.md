@@ -2,7 +2,6 @@
 
 A chat app with real-time capabilities that utilizes Appwrite on the backend.
 
-🎥 [Tutorial Link](https://youtu.be/t7S0I78sloI?feature=shared)
 
 <img src="images/demo.png"/>
 
